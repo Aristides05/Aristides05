@@ -1,10 +1,10 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World!</h1></summary>
+    <summary><h2 style="display: inline-block">Hello World!</h2></summary>
 </div>
-    
----
+
+<hr style="border: 10px solid red;">
 
 <!-- Presentation -->
 <p>

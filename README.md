@@ -17,7 +17,7 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 Mais sobre mim</summary>
 
   - 💬 Atualmente com 21 anos, resido no Brasil. Estou focando em me profissionalizar na área para conseguir me realocar no mercado de trabalho. Acredito que a plataforma do GitHub será uma ótima ferramenta para isso, pois me permite mostrar minhas habilidades e conhecimentos por meio do meu portfólio.
 

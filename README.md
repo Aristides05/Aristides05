@@ -1,26 +1,40 @@
-<!--título-->
+<!-- Título -->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Hello World!</h2></summary>
+  <ul align="left">
+    <summary><h2 style="display: inline-block">Olá, Bem vindo ao meu perfil GitHub!</h2></summary>
 </div>
 
-<hr style="border: 10px solid red;">
+<hr style="border: 10px solid rgb(56, 143, 139);">
 
-<!-- Presentation -->
-<p>
-  Oi, Meu nome é Allan Aristides.
+<!-- Apresentação -->
+## Sobre Mim
 
-  - Graduando Análise e Desenvolvimento de Sistemas - FACENS
+Meu nome é **Allan Aristides**.
 
-  - Cursando Formação em Tecnologia - Desenvolvedor Full Stack - DNC
-</p>
+- **Graduando em Análise e Desenvolvimento de Sistemas** - FACENS
+- **Cursando Formação em Tecnologia - Desenvolvedor Full Stack** - DNC
 
-<!-- Dropdown -->
+<!-- Mais sobre mim -->
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
+  <p>
+    💬 Tenho 21 anos e estou focado em me profissionalizar na área de Desenvolvimento WEB (Full Stack), testes e automações com Selenium. Meu objetivo é conseguir minha primeira vaga como desenvolvedor.
 
-  - 💬 Atualmente com 21 anos, resido no Brasil. Estou focando em me profissionalizar na área para conseguir me realocar no mercado de trabalho. Acredito que a plataforma do GitHub será uma ótima ferramenta para isso, pois me permite mostrar minhas habilidades e conhecimentos por meio do meu portfólio.
+    ⚡ Sempre procuro aprender algo novo e enfrentar desafios que me ajudem a crescer profissionalmente. No meu tempo livre, gosto de passar tempo com minha família e amigos, estudar novas tecnologias e relaxar assistindo minhas séries e filmes favoritos.
+  </p>
+</details>
 
-  - ⚡ Adoro estar em constante aprendizado, buscando sempre novos desafios. No meu tempo livre, gosto de assistir séries e filmes, ouvir música e conversar com amigos e familiares.
+<section>
+  <div id="img">
+    <img src="[URL_da_Imagem](https://media.licdn.com/dms/image/D5610AQH55hgNxmXgmA/image-shrink_800/0/1714083001513?e=1717545600&v=beta&t=Xal-DZZlGcVqHlUcjSaZASLi4XjRy2ZU4ThaiHIIGiE)" alt="Texto Alternativo">
+  </div>
+
+  <div id="learning">
+    
+  </div>
+</section>
+
+<!-- Estatísticas -->
+## Minhas Estatísticas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aristides05&layout=compact&theme=gotham)

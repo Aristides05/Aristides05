@@ -8,7 +8,7 @@
 
 <!-- Presentation -->
 <p>
-  Meu nome é **Allan Aristides**.
+  Meu nome é Allan Aristides.
 
   - **Graduando Análise e Desenvolvimento de Sistemas** - FACENS
 

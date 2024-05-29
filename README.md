@@ -7,7 +7,7 @@
 <hr style="border: 10px solid rgb(56, 143, 139);">
 
 <!-- Apresentação -->
-## Sobre Mim
+Sobre Mim
 
 Meu nome é **Allan Aristides**.
 
@@ -26,13 +26,8 @@ Meu nome é **Allan Aristides**.
 
 <section>
   <div id="img">
-    <img src="[URL_da_Imagem](https://media.licdn.com/dms/image/D5610AQH55hgNxmXgmA/image-shrink_800/0/1714083001513?e=1717545600&v=beta&t=Xal-DZZlGcVqHlUcjSaZASLi4XjRy2ZU4ThaiHIIGiE)" alt="Texto Alternativo">
+    ![Logo da Minha Empresa](https://media.licdn.com/dms/image/D5610AQH55hgNxmXgmA/image-shrink_800/0/1714083001513?e=1717545600&v=beta&t=Xal-DZZlGcVqHlUcjSaZASLi4XjRy2ZU4ThaiHIIGiE)
   </div>
-
-  <div id="learning">
-    
-  </div>
-</section>
 
 <!-- Estatísticas -->
 ## Minhas Estatísticas

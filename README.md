@@ -7,7 +7,7 @@
 <hr style="border: 10px solid rgb(56, 143, 139);">
 
 <!-- Apresentação -->
-Sobre Mim
+##Sobre Mim
 
 Meu nome é **Allan Aristides**.
 
@@ -23,11 +23,6 @@ Meu nome é **Allan Aristides**.
     ⚡ Sempre procuro aprender algo novo e enfrentar desafios que me ajudem a crescer profissionalmente. No meu tempo livre, gosto de passar tempo com minha família e amigos, estudar novas tecnologias e relaxar assistindo minhas séries e filmes favoritos.
   </p>
 </details>
-
-<section>
-  <div id="img">
-    ![Logo da Minha Empresa](https://media.licdn.com/dms/image/D5610AQH55hgNxmXgmA/image-shrink_800/0/1714083001513?e=1717545600&v=beta&t=Xal-DZZlGcVqHlUcjSaZASLi4XjRy2ZU4ThaiHIIGiE)
-  </div>
 
 <!-- Estatísticas -->
 ## Minhas Estatísticas

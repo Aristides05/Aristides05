@@ -1,4 +1,4 @@
-<!-- Título -->
+<!--título-->
 <div id="user-content-toc">
   <ul align="left">
     <summary><h2 style="display: inline-block">Olá, Bem vindo ao meu perfil GitHub!</h2></summary>
@@ -6,25 +6,21 @@
 
 <hr style="border: 10px solid rgb(56, 143, 139);">
 
-<!-- Apresentação -->
-##Sobre Mim
+<!-- Presentation -->
+<p>
+  Meu nome é **Allan Aristides**.
 
-Meu nome é **Allan Aristides**.
+  - **Graduando Análise e Desenvolvimento de Sistemas** - FACENS
 
-- **Graduando em Análise e Desenvolvimento de Sistemas** - FACENS
-- **Cursando Formação em Tecnologia - Desenvolvedor Full Stack** - DNC
+  - **Cursando Formação em Tecnologia - Desenvolvedor Full Stack** - DNC
+</p>
 
-<!-- Mais sobre mim -->
+<!-- Dropdown -->
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
-  <p>
-    💬 Tenho 21 anos e estou focado em me profissionalizar na área de Desenvolvimento WEB (Full Stack), testes e automações com Selenium. Meu objetivo é conseguir minha primeira vaga como desenvolvedor.
 
-    ⚡ Sempre procuro aprender algo novo e enfrentar desafios que me ajudem a crescer profissionalmente. No meu tempo livre, gosto de passar tempo com minha família e amigos, estudar novas tecnologias e relaxar assistindo minhas séries e filmes favoritos.
-  </p>
-</details>
+  - 💬 Tenho 21 anos e estou focado em me profissionalizar na área de Desenvolvimento WEB (Full Stack), testes e automações com Selenium. Meu objetivo é conseguir minha primeira vaga como desenvolvedor.
 
-<!-- Estatísticas -->
-## Minhas Estatísticas
+  - ⚡ Sempre procuro aprender algo novo e enfrentar desafios que me ajudem a crescer profissionalmente. No meu tempo livre, gosto de passar tempo com minha família e amigos, estudar novas tecnologias e relaxar assistindo minhas séries e filmes favoritos.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aristides05&layout=compact&theme=gotham)
